@@ -1,4 +1,4 @@
-# cdp-docs
+# cdp-docs/sample
 
 I gave setting up the SDK and getting started with creating/funding a wallet a try (Python only). I was able to successfully complete the Quickstart, but I created this repository with an example of how I would approach a document like this.
 
